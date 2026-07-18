@@ -2074,8 +2074,10 @@ markers:
   - {type: punctuation, offset: 5555, content: 。, id: KR3eg010_jc_004-bkkpn1049}
   - {type: 'tls:seg', offset: 5555, content: '', id: KR3eg010_jc_004-d8.d18.p2s48}
   - {type: punctuation, offset: 5559, content: (, id: KR3eg010_jc_004-bkkpn1050}
+  - {type: voice, offset: 5559, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 5561, content: ), id: KR3eg010_jc_004-bkkpn1051}
   - {type: punctuation, offset: 5564, content: (, id: KR3eg010_jc_004-bkkpn1052}
+  - {type: voice, offset: 5564, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 5566, content: ), id: KR3eg010_jc_004-bkkpn1053}
   - {type: punctuation, offset: 5566, content: ，, id: KR3eg010_jc_004-bkkpn1054}
   - {type: 'tls:seg', offset: 5566, content: '', id: KR3eg010_jc_004-d8.d18.p2s49}
@@ -2122,8 +2124,10 @@ markers:
   - {type: punctuation, offset: 5659, content: 。, id: KR3eg010_jc_004-bkkpn1075}
   - {type: 'tls:seg', offset: 5659, content: '', id: KR3eg010_jc_004-d8.d18.p2s70}
   - {type: punctuation, offset: 5663, content: (, id: KR3eg010_jc_004-bkkpn1076}
+  - {type: voice, offset: 5663, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 5665, content: ), id: KR3eg010_jc_004-bkkpn1077}
   - {type: punctuation, offset: 5668, content: (, id: KR3eg010_jc_004-bkkpn1078}
+  - {type: voice, offset: 5668, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 5670, content: ), id: KR3eg010_jc_004-bkkpn1079}
   - {type: punctuation, offset: 5670, content: ，, id: KR3eg010_jc_004-bkkpn1080}
   - {type: 'tls:seg', offset: 5670, content: '', id: KR3eg010_jc_004-d8.d18.p2s71}
@@ -2326,4 +2330,4 @@ markers:
   - {type: punctuation, offset: 6081, content: ！, id: KR3eg010_jc_004-bkkpn1179}
   - {type: xml-element, offset: 6081, content: '', id: KR3eg010_jc_004-d8.d19p4_end, name: p, role: close, attrs: {'xml:id': KR3eg010_jc_004-d8.d19p4}}
   back: []
-hash: sha256:237816925ea9d6700e516b375cdc338ffeef63dedef077478a8c42d81a974e80
+hash: sha256:8443a61140e34275db499ae3a8605dc00e11addfb37c86c5a7ed03c832fa3a4a
